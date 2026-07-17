@@ -1,0 +1,3 @@
+/home/dsj/weak_net_study/dbus-study/get-all/build/CMakeFiles/dbus_demo.dir
+/home/dsj/weak_net_study/dbus-study/get-all/build/CMakeFiles/edit_cache.dir
+/home/dsj/weak_net_study/dbus-study/get-all/build/CMakeFiles/rebuild_cache.dir

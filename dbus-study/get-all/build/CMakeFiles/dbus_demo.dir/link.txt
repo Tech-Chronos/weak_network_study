@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/dbus_demo.dir/main.cc.o -o bin/dbus_demo  /usr/lib/aarch64-linux-gnu/libdbus-1.so 
