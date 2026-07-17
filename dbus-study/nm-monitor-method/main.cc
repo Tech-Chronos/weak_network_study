@@ -1,7 +1,7 @@
 #include <iostream>
 #include <dbus/dbus.h>
 
-// a{iso}
+// a(iso)
 void HandleReturnMessage(DBusMessage* reply)
 {
     // 1. 初始化迭代器，并指向第一个元素
